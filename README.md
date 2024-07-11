@@ -7,4 +7,4 @@ Discover chemical/physical (computed and experimental) properties, biosynthesis 
 
 AminoADB constantly expands its amino acid data and enhances its features for an optimal user experience. Keep visiting for the latest updates!
 
-The database is freely accessible on the web via [aminoadb.org.](https://aminoadb.org/)
+The database is freely accessible on the web via [aminoadb.org.](https://aminoadb.org/) 
